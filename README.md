@@ -12,5 +12,6 @@ The total stock volume of the stock. The result should match the following image
 
 ![image](https://github.com/ChantalThom/VBA-challenge/assets/148919702/f4dbc58a-6ba7-448b-9ab2-0269bf0838a8)
 
-Screenshots can be found in the Stock_Ticker folder
-VBA source code can be found in the file stockanalysis_vba
+*Screenshots can be found in the Stock_Ticker folder
+
+*VBA source code can be found in the file stockanalysis_vba
