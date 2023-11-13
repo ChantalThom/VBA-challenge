@@ -10,3 +10,4 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock. The result should match the following image:
 
+![image](https://github.com/ChantalThom/VBA-challenge/assets/148919702/f4dbc58a-6ba7-448b-9ab2-0269bf0838a8)
